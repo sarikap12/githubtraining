@@ -4,3 +4,5 @@ emoji
 type
 color
 vibrant
+darkmode
+comment
